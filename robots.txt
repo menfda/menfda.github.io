@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://menfda.github.io/Swe/sitemap.Swe
